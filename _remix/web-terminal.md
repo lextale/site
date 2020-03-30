@@ -16,3 +16,5 @@ tags:
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+Ασκηση: Αναζητήστε στο διαδίκτυο μία εντολή που χρησιμοποιείται σε κάποιο τερματικό της επιλογή σας και υλοποιήστε την σε αυτό το html terminal.
