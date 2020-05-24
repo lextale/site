@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Interactive web app with github API
+title: Web app with github API
 header: no
 categories:
   - apps
